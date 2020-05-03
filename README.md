@@ -1,6 +1,6 @@
 # askterisk
 
-Askterisk is an opensource question and answer platform which is built on microservices architecture.
+Askterisk is an opensource question and answer platform.
 
 
 
